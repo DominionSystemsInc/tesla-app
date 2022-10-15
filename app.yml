@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: mylandmarktech/wfapp:v1
+      - image: dominionsystemsinc/wfapp:v1
         name: javawebapp
         ports:
         - name: javawebapp
